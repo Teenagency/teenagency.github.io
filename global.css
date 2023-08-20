@@ -1,0 +1,28 @@
+body {
+  margin: 0;
+  line-height: normal;
+}
+
+:root {
+  /* fonts */
+  --font-inter: Inter;
+  --font-dm-serif-text: "DM Serif Text";
+  --font-fredoka-one: "Fredoka One";
+  --font-fjalla-one: "Fjalla One";
+  --font-baloo-thambi: "Baloo Thambi";
+
+  /* font sizes */
+  --font-size-5xl: 24px;
+  --font-size-13xl: 32px;
+  --font-size-xl: 20px;
+  --font-size-17xl: 36px;
+
+  /* Colors */
+  --color-white: #fff;
+  --color-khaki: #f4da72;
+  --color-black: #000;
+  --color-darkorchid: #b53cea;
+
+  /* border radiuses */
+  --br-xl: 20px;
+}
