@@ -1,3 +1,16 @@
+/* Desktop styles */
+/* Your desktop styles here */
+
+/* Tablet styles */
+@media (max-width: 768px) {
+  /* Your tablet styles here */
+}
+
+/* Mobile styles */
+@media (max-width: 480px) {
+  /* Your mobile styles here */
+}
+
 .main-bg {
   position: absolute;
   top: 0;
